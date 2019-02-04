@@ -1,0 +1,14 @@
+/Users/lusinekhachatryan/sources/Test-Application/bin/Debug/netcoreapp2.2/Test-Application.deps.json
+/Users/lusinekhachatryan/sources/Test-Application/bin/Debug/netcoreapp2.2/Test-Application.runtimeconfig.json
+/Users/lusinekhachatryan/sources/Test-Application/bin/Debug/netcoreapp2.2/Test-Application.runtimeconfig.dev.json
+/Users/lusinekhachatryan/sources/Test-Application/bin/Debug/netcoreapp2.2/Test-Application.dll
+/Users/lusinekhachatryan/sources/Test-Application/bin/Debug/netcoreapp2.2/Test-Application.pdb
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.csprojAssemblyReference.cache
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.csproj.CoreCompileInputs.cache
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.RazorAssemblyInfo.cache
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.RazorAssemblyInfo.cs
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.AssemblyInfoInputs.cache
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.AssemblyInfo.cs
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.RazorTargetAssemblyInfo.cache
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.dll
+/Users/lusinekhachatryan/sources/Test-Application/obj/Debug/netcoreapp2.2/Test-Application.pdb
